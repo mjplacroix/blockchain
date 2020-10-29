@@ -27,6 +27,7 @@ Fundamentals:
 - [Microsoft Solidity Module](https://docs.microsoft.com/en-us/learn/modules/blockchain-learning-solidity/)
 - [OpenZeppelin Learn](https://docs.openzeppelin.com/learn/)
 - [Solidity YouTube overview](https://www.youtube.com/watch?v=YJ-D1RMI0T0&list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g&index=8&)
+- [Solidity cheatsheet](https://github.com/manojpramesh/solidity-cheatsheet)
 
 Tutorials:
 - [Ethereum.org](https://ethereum.org/en/developers/tutorials/)
