@@ -37,7 +37,7 @@ Tutorials:
 Code Challenges:
 - [CodeWars](https://www.reddit.com/r/ethereum/comments/741lcd/codewars_prerelease_of_solidity_code_challenges/)
 - [Capture the Ether](https://capturetheether.com/)
-- [Ethernaut](https://solidity-05.ethernaut.openzeppelin.com/level/0xc8bAE5314C82d94858fE916067FbFCFE9F32097b)
+- [Ethernaut](https://ethernaut.openzeppelin.com/)
 
 
 
