@@ -39,6 +39,9 @@ Code Challenges:
 - [Capture the Ether](https://capturetheether.com/)
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 
+Tools:
+- [Slither](https://github.com/crytic/slither) - a Solidity static analyzer
+
 
 
 
